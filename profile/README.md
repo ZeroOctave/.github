@@ -11,7 +11,7 @@ ZeroOctave welcomes newbies to Open Source. Contribute in our organisation to en
 
     
 ## What You Can Do Here❓
-[ZeroOctave-Website](https://github.com/ZeroOctave/ZeroOctave-Website): Create a landing page for ZeroOctave.
+[ZeroOctave.github.io](https://github.com/ZeroOctave/ZeroOctave.github.io): Create a landing page for ZeroOctave.
 
 [ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects): Contribute in this repository to practice your web development skills.     
   
