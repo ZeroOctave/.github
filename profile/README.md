@@ -4,7 +4,7 @@
 
 <div align="center">
   
-ZeroOctave welcomes newbies to Open Source. Contribute in our organisation to enhance your skills and obviously our source codes. 
+ZeroOctave welcomes newbies to Open Source. Contribute in our organization to enhance your skills and obviously our source codes. 
  
 *Want to Contribute in different Projects? [visit here](https://awesomeopensource.com/)*
     
