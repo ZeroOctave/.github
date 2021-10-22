@@ -18,6 +18,6 @@ ZeroOctave welcomes newbies to Open Source. Contribute in our organization to en
 ## Want To Join ZeroOctave?
 Raise a issue [here](https://github.com/ZeroOctave/ZeroOctave.github.io)
     
-## Join Community Discussions
+## Community Discussions
 Join [here](https://github.com/ZeroOctave/ZeroOctave.github.io/discussions/6)
   
