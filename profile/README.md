@@ -16,7 +16,7 @@ ZeroOctave welcomes newbies to Open Source. Contribute in our organization to en
 [ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects): Contribute in this repository to practice your web development skills. 
     
 ## Want To Join ZeroOctave?
-Raise a issue [here](https://github.com/ZeroOctave/ZeroOctave.github.io)
+Raise a issue [here](https://github.com/ZeroOctave/ZeroOctave.github.io/issues/new?assignees=&labels=Invite+me+to+Zerooctave&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
     
 ## Community Discussions
 Join [here](https://github.com/ZeroOctave/ZeroOctave.github.io/discussions/6)
