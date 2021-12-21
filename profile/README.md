@@ -20,4 +20,4 @@ Raise a issue [here](https://github.com/ZeroOctave/ZeroOctave.github.io/issues/n
 ## Community Discussions✨
 Join [here](https://github.com/ZeroOctave/ZeroOctave.github.io/discussions/6)
   
-## [Open Source Gallery📚](https://pear-coelurus-712.notion.site/Open-Source-Gallery-719c3ef45c3b449d8a4dec2260b3cd71)
+## [Open Source Gallery📚](https://astrodevil.github.io/Open-Source-Gallery/)
