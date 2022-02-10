@@ -6,7 +6,7 @@
   
 ZeroOctave welcomes newbies to Open Source. Contribute in our organization to enhance your skills and obviously our source codes.
 
-Want to collab on projects? Want maintainers? Want Contributors? Join our organization or add your projects. Manage Your project your way by becoming Project Admin.Send Project Proposal [Here](https://github.com/ZeroOctave/ZeroOctave.github.io/discussions/new?category=project-proposal)
+Want to collab on projects? Want maintainers? Want Contributors? Join our organization or add your projects. Manage Your project your way by becoming Project Admin. Send Project Proposal [Here](https://github.com/ZeroOctave/ZeroOctave.github.io/discussions/new?category=project-proposal)
 
     
 ## What You Can Do Here❗
