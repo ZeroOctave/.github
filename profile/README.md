@@ -20,7 +20,7 @@ Raise a issue [here](https://github.com/ZeroOctave/ZeroOctave.github.io/issues/n
 ## Community Discussions✨
 Join [here](https://github.com/ZeroOctave/ZeroOctave.github.io/discussions/6)
   
-## [Open Source Gallery📚](https://astrodevil.github.io/Open-Source-Gallery/)
+## [Resource Gallery](https://resourcegallery.live/)
     
 ### [ZeroOctave-Blogs](https://zerooctave.hashnode.dev/)
 Join Blog team [here](https://hashnode.com/teams/invite/0013e746-aa30-4335-9196-5dd3bed50715)
