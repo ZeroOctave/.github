@@ -13,6 +13,8 @@ Want to collab on projects? Want maintainers? Want Contributors? Join our organi
 [ZeroOctave.github.io](https://github.com/ZeroOctave/ZeroOctave.github.io): Create a landing page for ZeroOctave.
 
 [ZeroOctave-Javascript-Projects](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects): Contribute in this repository to practice your web development skills. 
+
+[resource-gallery](https://github.com/ZeroOctave/resource-gallery): Contribute in this repository to help us build a one stop resources solution for developers.
     
 ## Want To Join ZeroOctave❓
 Raise a issue [here](https://github.com/ZeroOctave/ZeroOctave.github.io/issues/new?assignees=&labels=Invite+me+to+Zerooctave&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
